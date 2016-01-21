@@ -1,6 +1,6 @@
 {
   "name": "tvgapp",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "TVGapp: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
@@ -25,5 +25,24 @@
   "cordovaPlatforms": [
     "ios",
     "android"
-  ]
+  ],
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epretoriusZA/TVGapp.git"
+  },
+  "keywords": [
+    "the",
+    "village",
+    "guy"
+  ],
+  "author": "Enver Pretorius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epretoriusZA/TVGapp/issues"
+  },
+  "homepage": "https://github.com/epretoriusZA/TVGapp#readme"
 }
